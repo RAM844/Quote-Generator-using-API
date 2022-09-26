@@ -1,6 +1,6 @@
-# Random jokes Generator using [JOKE API](https://jokeapi.dev/)
+# Random Quotes Generator using [Quotable](https://github.com/lukePeavey/quotable)
 
-- This is a jokes Generator, made using HTML, CSS and Javascript.
+- This is a Quotes Generator, made using HTML, CSS and Javascript.
 
 ## Screenshot
 
@@ -16,14 +16,14 @@
 
 
 ## What I learned
-- Learned how to generate Random jokes using [JOKE API](https://jokeapi.dev/)
+- Learned how to generate Quotes using [Quotable](https://github.com/lukePeavey/quotable)
 
 ## Time taken
 - It took me around 1 hours to built this website from scratch.
 
 ## Links
-- [live demo](https://joke-generator-3.netlify.app/)
-- [source](https://github.com/RAM844/Jokes-Generator-using-API)
+- [live demo]()
+- [source]()
 
 
 ## Contact me

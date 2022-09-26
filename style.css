@@ -32,11 +32,12 @@ h3 {
   letter-spacing: 2px;
 }
 
-.joke {
+.quote {
   font-size: 30px;
   letter-spacing: 1px;
   line-height: 40px;
   margin: 50px auto;
+  margin-bottom: 15px;
   max-width: 600px;
 }
 
@@ -53,5 +54,9 @@ h3 {
 .btn:active {
   transform: scale(0.98);
 }
-
+#author{
+  margin-top: 0;
+  margin-bottom: 50px;
+  text-align: center;
+}
 
